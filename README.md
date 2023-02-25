@@ -8,7 +8,11 @@ The RKVST API can easily be connected to existing data in the cloud or on-prem t
 
 An interactive RKVST API console to run tests and generate code which can be quickly added into any application is a available in the free service we offer at www.rkvst.com.
 
-These docs describe all the capabilities of the RKVST API including the creation & management of provenance metadata, access controls for private and public asset sharing, compliance policies to continuously monitor vulnerabilies and administration controls for account/user/application/3rd party management.
+These docs describe all the capabilities of the RKVST API including: 
+- creation, management & security of provenance metadata
+- access controls for private and public asset sharing
+- compliance policies to continuously monitor vulnerabilies 
+- administration controls for management of users, applications and relationships with 3rd parties
 
 ## Contributing
 
