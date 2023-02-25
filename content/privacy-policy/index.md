@@ -29,8 +29,6 @@ We run [Plausible](https://plausible.io/) analytics on getdoks.org. The followin
 - __Device type__. We use this to understand what devices people use when visiting this website. This is derived from window.innerWidth. The actual width of the browser in pixels is discarded. For example: _Desktop_.
 - __Visitor Country__. We look up the visitor’s country using the IP address. We do not track anything more granular than the country of origin and the IP address of the visitor is discarded. We never store IP addresses in our database or logs. For example: _Canada_.
 
-## Contact us
-
-[Contact us]({{< ref "contact/index.md" >}}) if you have any questions.
+## Contact us at (https://support.rkvst.com/hc/en-gb) if you have any questions.
 
 Effective Date: _27th August 2020_
