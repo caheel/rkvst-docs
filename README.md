@@ -6,13 +6,13 @@ The RKVST API enables proof of origin, proof of authenticity and proof of proven
 
 The RKVST API can easily be connected to existing data in the cloud or on-prem to provide instantly verifiable data integrity, transparency & trust services for private and public assets.
 
-An interactive RKVST API console to run tests and generate code which can be quickly added into any application is a available in the free service we offer at www.rkvst.com.
-
 These docs describe all the capabilities of the RKVST API including: 
 - creation, management & security of provenance metadata
 - access controls for private and public asset sharing
 - compliance policies to continuously monitor vulnerabilies 
 - administration controls for management of users, applications and relationships with 3rd parties
+
+An interactive RKVST API console to run tests and generate code which can be quickly added into any application is a available in the free service we offer at www.rkvst.com.
 
 ## Contributing
 
