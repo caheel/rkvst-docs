@@ -2,7 +2,11 @@
 
 This is the Home of the RKVST Documentation
 
-RKVST provides Continuous Assurance as a Service to attest trustworthiness of assets, and boost confidence in critical decisions.  Find out more on our [website](https://rkvst.com).
+The RKVST API enables proof of origin, proof of authenticity and proof of provenance for any digital asset.  It is organized around REST (https://en.wikipedia.org/wiki/Representational_state_transfer). 
+
+Instantly verifiable data integrity, transparency & trust services for private and public assets can easily be created by connecting the RKVST API to existing data stores in the cloud or on-prem.
+
+We built an RKVST interactive API console for developers to run tests and generate code which can be quickly added into any application.  The RKVST API console is a available in the free service we offer at www.rkvst.com
 
 ## Contributing
 
