@@ -4,9 +4,11 @@ This is the Home of the RKVST Documentation
 
 The RKVST API enables proof of origin, proof of authenticity and proof of provenance for any digital asset.  It is organized around REST (https://en.wikipedia.org/wiki/Representational_state_transfer). 
 
-Instantly verifiable data integrity, transparency & trust services for private and public assets can easily be created by connecting the RKVST API to existing data stores in the cloud or on-prem.
+The RKVST API can easily be connected to existing data in the cloud or on-prem to provide instantly verifiable data integrity, transparency & trust services for private and public assets.
 
-We built an RKVST interactive API console for developers to run tests and generate code which can be quickly added into any application.  The RKVST API console is a available in the free service we offer at www.rkvst.com
+An interactive RKVST API console to run tests and generate code which can be quickly added into any application is a available in the free service we offer at www.rkvst.com.
+
+These docs describe all the capabilities of the RKVST API including the creation & management of provenance metadata, access controls for private and public asset sharing, compliance policies to continuously monitor vulnerabilies and administration controls for account/user/application/3rd party management.
 
 ## Contributing
 
